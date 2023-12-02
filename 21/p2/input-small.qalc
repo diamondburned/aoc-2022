@@ -1,15 +1,15 @@
-root() := function("pppw()",) = function("sjmn()",)
+root() := pppw() = sjmn()
 dbpl() := 5
-cczh() := function("sllz()",) + function("lgvd()",)
+cczh() := sllz() + lgvd()
 zczc() := 2
-ptdq() := "humn" - function("dvpt()",)
+ptdq() := "humn" - dvpt()
 dvpt() := 3
 lfqf() := 4
 ljgn() := 2
-sjmn() := function("drzm()",) * function("dbpl()",)
+sjmn() := drzm() * dbpl()
 sllz() := 4
-pppw() := function("cczh()",) / function("lfqf()",)
-lgvd() := function("ljgn()",) * function("ptdq()",)
-drzm() := function("hmdt()",) - function("zczc()",)
+pppw() := cczh() / lfqf()
+lgvd() := ljgn() * ptdq()
+drzm() := hmdt() - zczc()
 hmdt() := 32
 function('root()',)
